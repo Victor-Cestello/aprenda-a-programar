@@ -1,5 +1,5 @@
-let Nome Victor
-let email vcestello@gmail.com
-let Profissão Motorista
-let Idade 25
-let local Suiça
+String Nome Victor
+String email vcestello@gmail.com
+String Profissão Motorista
+Number Idade 25
+String local Suiça
