@@ -1,5 +1,15 @@
-String Nome Victor
-String email vcestello@gmail.com
-String Profissão Motorista
-Number Idade 25
-String local Suiça
+let Nome = "Victor"
+let email = "vcestello@gmail.com"
+let Profissão = "Motorista"
+let Idade = "25"
+let local = "Suiça"
+
+console.log(Nome)
+console.log(email)
+console.log(Profissão)
+console.log(Idade)
+console.log(local)
+
+
+
+
