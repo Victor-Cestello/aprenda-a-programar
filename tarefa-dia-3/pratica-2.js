@@ -7,4 +7,4 @@ while (i <= n) {
     let textoDeExibicao = `${multiplicador} X ${i} = ${resultado}`
     console.log(textoDeExibicao)
     i++
-}
+} 
